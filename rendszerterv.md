@@ -15,3 +15,12 @@
 	* Rendelkezésre állás
 
 ## Funkcionális terv
+
+### A rendszer karakterei
+1. Felhasználó 
+* kérdőív kitöltése 
+* eddigi válaszok megtekintése 
+2. Admin
+* kérdőív kitöltése
+* eddigi válaszok megtekintése
+* kérdőív módosítása

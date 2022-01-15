@@ -13,3 +13,5 @@
 	* Megbízhatóság
 	* Integritás megtartása
 	* Rendelkezésre állás
+
+## Funkcionális terv
