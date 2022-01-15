@@ -21,3 +21,16 @@ Ez az alkalmazás mindig naprakészen rendelkezésre fog állni a felhasználók
 A kérdőiv támogat minden böngészőt, mobilbarát mac-en is elérhető és tartalmaz egyéni válaszlehetőségeket.
 Sötét mód ki-be kapcsolásának lehetősége.
 SSL-tanúsítvány védi az oldalt.
+
+## Funkcionális követelmények
+
+Űrlapkezelés
+1. Text mezők
+2. Radio gombok (Csak egy válaszlehetőség kiválasztása)
+3. Submit típusú gomb, melyel beküldjük az adatokat az űrlapról
+
+Sötét mód
+1. Egy toggle típusú gomb amelyet lehet on-off(be-ki) módba kapcsolni
+
+Egy mysql adatbázisba a válaszok lementése, ehhez tartozó esetlegesen beírt név lementése és ezek publikus közzététele az oldalon.
+
