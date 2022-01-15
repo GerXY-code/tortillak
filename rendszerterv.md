@@ -78,3 +78,11 @@ Szükséges az holgy a felhasználók elérjék a weboldalt.
 Hiba esetén a megfelelő tájékoztatás nyújtása.
 Az alkalmazás számára rendelkezésre kell áljon az adatbázis.
 Minden platformon egységesen kell működjenek az egyes funkciók.
+
+
+## Telepítési terv
+
+Helyi adatbázis feltöltése egy kiszolgálóhoz és domain név választása.
+A weboldal eléréséhez csupán be kell írni az URL sávba a weboldal címét.
+
+
