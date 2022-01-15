@@ -10,3 +10,9 @@ A forgalom ingadozik.
 ## Képernyőterv 
 Miután beírjuk a böngészőbe hogy: www.bistorantkerdoiv.hu ez a kép fogad: ![Screen plan]()
 Figyelem! Ez a kép csak illusztráció, a végső alkalmazás ettől eltérő lehet,
+
+## Követelt üzleti folyamat model
+Egy teljesen könnyen használható az átlag felhasználók számára is elérhető webes alkalmazás készítése és üzemeltetése.
+Ez az alkalmazás felhasználóbarát több szempontból is pl:
+1. sötétmód
+2. könnyen kezelhető felület.
