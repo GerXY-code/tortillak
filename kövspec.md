@@ -39,3 +39,10 @@ Egy mysql adatbázisba a válaszok lementése, ehhez tartozó esetlegesen beírt
 Miután beírtuk a böngészőbe hogy: www.bistorantkerdoiv.hu ez a kép fogad:
 Figyelem! Ez a kép csak illusztráció, a végső alkalmazás ettől eltérő lehet.
 
+## Követelmények listája
+Modul | ID | Név | Verzió | Magyarázat
+------------ | ------------- | ------------ | ----------- | -----------
+Engedélyszint | K1 | Kérdőív kitöltése | 1.0 | Bárki kitöltheti a kérédőívet.
+Módosítás | K2 | Kérdőív módosítása | 1.0 | Kizárólag az admin tudja módosítani a kérdőívet, manuálisan.
+Engedélyszint | K3 | Értékelések megnlzése | 1.0 | Bárki megnézheti az értékeléseket.
+Módosítás | K4 | Sötétmód ki-be kapcsolása | 1.0 | Bárki ki-be kapcsolhatja a sötétmódot.
