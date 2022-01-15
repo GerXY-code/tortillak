@@ -11,3 +11,13 @@ Ennek a kérdőívnek az a célja hogy a felhasználók regisztráció mentesen 
 Eddig cak szóban tudták kifejteni a véleményüket ezt sajnos rögzíteni nem 
 lehetett ezáltal a vezetés nem kapott tudomást az esetleges hiányosságokról.
 A bevételt tanulmányozva feltételezhetjük hogy van hiba csak azt nem tudjuk hogy mi is az a bizonyos hiba.
+
+## Vágyálom rendszer 
+
+Ez a kérdőiv megfelelő emgoldás lenne hogy egy adatbázisban elemntsük név
+és regisztráció nélkül a felhasználói véleményeket.
+Ezt módosítani csak a felső vezets tudja tanulmányozni viszont a cégen belül bárki.
+Ez az alkalmazás mindig naprakészen rendelkezésre fog állni a felhasználók számára, ezt többször is ki lehet tölteni.
+A kérdőiv támogat minden böngészőt, mobilbarát mac-en is elérhető és tartalmaz egyéni válaszlehetőségeket.
+Sötét mód ki-be kapcsolásának lehetősége.
+SSL-tanúsítvány védi az oldalt.
