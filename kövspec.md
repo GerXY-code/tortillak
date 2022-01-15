@@ -5,3 +5,9 @@
 Szeretnénk követni a piac alakulását, a vásárlóu igények változását.
 A vendégek véleményét a szolgáltatásainkról.
 Ennek a kérdőívnek az a célja hogy a felhasználók regisztráció mentesen név nélkül kitudják tölteni gyorsan és egyszerűen, ezáltal látjuk a hiányosságainkat és tudjuk melyik területen fejlesszük a céget.
+
+## Jelelnlegi állapot
+
+Eddig cak szóban tudták kifejteni a véleményüket ezt sajnos rögzíteni nem 
+lehetett ezáltal a vezetés nem kapott tudomást az esetleges hiányosságokról.
+A bevételt tanulmányozva feltételezhetjük hogy van hiba csak azt nem tudjuk hogy mi is az a bizonyos hiba.
