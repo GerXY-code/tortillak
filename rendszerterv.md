@@ -51,4 +51,30 @@ Programozási nyelvek:
 
 
 
-## Adatbázis terv
+## Teszt terv
+
+** Tesztelő eljárások **
+** Egységes teszt **
+
+Bármikor tesztelni kell amikor csak lehetséges a fejlesztés alatt, hogy megbizonyosodjunk annak kifogástalan működéséről.
+A metódusok készen állnak amikor a teszt esetek nem dobnak hibát.
+
+** Alfa teszt **
+
+Elsődleges célja az aflatesztnek az, hogy különböző böngészőkben próbáljuk ki az alkalmazást kompatilibitás szempontjából.
+A teszt sikeresnek mondható, ha ugyanazt az elvárt működést kapjuk minden böngésző esetén minden platformon.
+
+** Beta teszt **
+
+Ez a teszt nem a fejlesztők által kerül lebonyolításra.
+Böngészők a teszteléshet: Opera, Safari, Google Chrome, Mozzila Firefox, Miscrosoft Edge.
+Képernyőfelbontások a teszteléshez: 1280x720, 1600x900, 1920x1080
+
+** Funkciók tesztelése **
+
+** Backend szolgáltatás **
+
+Szükséges az holgy a felhasználók elérjék a weboldalt.
+Hiba esetén a megfelelő tájékoztatás nyújtása.
+Az alkalmazás számára rendelkezésre kell áljon az adatbázis.
+Minden platformon egységesen kell működjenek az egyes funkciók.

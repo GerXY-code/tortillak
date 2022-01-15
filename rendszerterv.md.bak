@@ -39,3 +39,16 @@ A fejlesztői környezetek:
 Programozási nyelvek:
 * PHP (code igniter keretrendszer)
 * SQL
+
+## architektúra terv
+
+1. Frontend:
+* Design html illetve css leíró nyelveken készül
+2. Backend:
+* A rendszer egy mysql adatbázissal van összeköttetésben
+* PHP nyelvet használunk a fejlesztésre
+* A fejlesztői környezet a Visual Studio Code és az Apatche netbeans.
+
+
+
+## Adatbázis terv
