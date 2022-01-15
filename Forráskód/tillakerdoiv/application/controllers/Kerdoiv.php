@@ -35,6 +35,7 @@ class Kerdoiv extends CI_Controller {
                $this->input->post('txt1'),
                $this->input->post('txt2'),
                
+               
              );
 
              Redirect('Kerdoiv/index');
