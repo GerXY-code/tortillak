@@ -8,7 +8,7 @@ A véleményeket nem tudjuk sehol eltárolni, a vezetésnek eljuttatni.
 A forgalom ingadozik.
 
 ## Képernyőterv 
-Miután beírjuk a böngészőbe hogy: www.bistorantkerdoiv.hu ez a kép fogad: ![Screen plan]()
+Miután beírjuk a böngészőbe hogy: www.bistorantkerdoiv.hu ez a kép fogad: ![Screen plan](https://github.com/GerXY-code/tortillak/blob/main/K%C3%A9pek/kepernyoterv.PNG)
 Figyelem! Ez a kép csak illusztráció, a végső alkalmazás ettől eltérő lehet,
 
 ## Követelt üzleti folyamat model

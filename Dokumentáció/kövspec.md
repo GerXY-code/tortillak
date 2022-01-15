@@ -27,7 +27,7 @@ Egy mysql adatbázisba a válaszok lementése és ezek publikus közzététele a
 Sötétmód.
 
 ## Követelt üzleti folyamat model
-Miután beírtuk a böngészőbe hogy: www.bistorantkerdoiv.hu ez a kép fogad:
+Kérdőiv kitöltésekor ez az oldal fogad: ![Screen plan](https://github.com/GerXY-code/tortillak/blob/main/K%C3%A9pek/kepernyotervs.PNG)
 Figyelem! Ez a kép csak illusztráció, a végső alkalmazás ettől eltérő lehet.
 
 ## Követelmények listája

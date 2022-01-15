@@ -39,3 +39,8 @@ ID | Verzió | követelmények | Funkció |
 01 | 1.0 | Kérdőív kitöltése | Kérdőív kitöltésével kapunk egy képet a vendégek véleményéről.
 02 | 1.0 | Kérdőív módosítása | Kérdőív törlése, esetleg egy válasz vagy kérdés módosítása.
 03 | 1.0 | Válaszok közzététele | Ez alapján tudjuk mi is olvasni a véleményeket.
+
+
+## Szójegyzék
+
+1.Sötét mód: Fekete háttér alapon fehér betűszín, a felhasználó szemének kímélésse érdekében
