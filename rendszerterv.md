@@ -86,3 +86,12 @@ Helyi adatbázis feltöltése egy kiszolgálóhoz és domain név választása.
 A weboldal eléréséhez csupán be kell írni az URL sávba a weboldal címét.
 
 
+## Karbantartási terv
+
+Karbantartási terv arra szolgál hogy esetlegesen bővíthessük, kijavvíthassuk illetve ami nagyon fontos, hogy megelőzzük az esetleges hibákat.
+
+Több féle karbabtartási eljárás létezik, néhány ezek közül, melyek ezen alkalmazás szempontjából fontosak lehetnek:
+
+* Adaptív karbantartás: Az alkalmazás naprakészen tartása.
+* Preventív karbantartás: Olyan problémák észlelése és kijavítása, melyek nem tűnhetnek komolynak, de későbbiekben komoly károkat okozhatnak.
+* Perfektív karbantartás: Új funkciók bevezetése, hosszú-távú használati támogatás, és még felhasználó barátibbá tétel.
